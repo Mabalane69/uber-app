@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832437422407",
+    "project_id": "ride-driver-1ot21q",
+    "storage_bucket": "ride-driver-1ot21q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832437422407:android:5f64df0206cbba6be6a462",
+        "android_client_info": {
+          "package_name": "io.flutterflow.ridedriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpHJFpII9JjzKzfyqBpnJ1-4qEBNLYEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
